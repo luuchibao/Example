@@ -23,12 +23,10 @@ We provide competitive compensation, including stock options and a full
 benefit plan. As a fast-growing business, we offer excellent opportunities
 for exciting and challenging work. As our company continues to grow, you
 can expect unlimited career advancement! ]]></description>
-		<salary>
-			<unit><![CDATA[USD]]></unit>
-			<from><![CDATA[1000]]></from>
-			<to><![CDATA[10000]]></to>
-			<type><![CDATA[10000]]></to>
-		</salary>
+			<salary_unit><![CDATA[USD]]></salary_unit>
+			<salary_from><![CDATA[1000]]></salary_from>
+			<salary_to><![CDATA[10000]]></salary_to>
+			<salary_type><![CDATA[WEEKLY]]></salary_type>
 		<major_category><![CDATA[Category1]]></major_category>
 		<minor_category><![CDATA[Minor 1]]></minor_category>
 		<requirements>
@@ -57,12 +55,10 @@ We provide competitive compensation, including stock options and a full
 benefit plan. As a fast-growing business, we offer excellent opportunities
 for exciting and challenging work. As our company continues to grow, you
 can expect unlimited career advancement! ]]></description>
-		<salary>
-			<unit><![CDATA[USD]]></unit>
-			<from><![CDATA[1000]]></from>
-			<to><![CDATA[10000]]></to>
-			<type><![CDATA[10000]]></to>
-		</salary>
+		<salary_unit><![CDATA[USD]]></salary_unit>
+			<salary_from><![CDATA[1000]]></salary_from>
+			<salary_to><![CDATA[10000]]></salary_to>
+			<salary_type><![CDATA[WEEKLY]]></salary_type>
 		<major_category><![CDATA[Category1]]></major_category>
 		<minor_category><![CDATA[Minor 1]]></minor_category>
 		<requirements>
