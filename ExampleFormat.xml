@@ -13,7 +13,6 @@
 		<state><![CDATA[TX]]></state>
 		<radius><![CDATA[45]]></radius>
 		<country><![CDATA[US]]></country>
-		<postalcode><![CDATA[75007]]></postalcode>
 		<email><![CDATA[example@abccorp.com]]></email>----who should receive leads, should be able to accept comma delemeted values.--
 <description>
 <![CDATA[Do you have 1-3 years of sales experience? Are you
