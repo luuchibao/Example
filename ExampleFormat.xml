@@ -26,8 +26,8 @@ can expect unlimited career advancement! ]]></description>
 			<salary_from><![CDATA[1000]]></salary_from>
 			<salary_to><![CDATA[10000]]></salary_to>
 			<salary_type><![CDATA[WEEKLY]]></salary_type>
-		<major_category><![CDATA[Category1]]></major_category>
-		<minor_category><![CDATA[Minor 1]]></minor_category>
+		<major_category><![CDATA[Construction / Facilities]]></major_category>
+		<minor_category><![CDATA[Foreman]]></minor_category>
 		<requirements>
 			<requirement1><![CDATA[C#]]></requirement1>
 		</requirements>
@@ -58,8 +58,8 @@ can expect unlimited career advancement! ]]></description>
 			<salary_from><![CDATA[1000]]></salary_from>
 			<salary_to><![CDATA[10000]]></salary_to>
 			<salary_type><![CDATA[WEEKLY]]></salary_type>
-		<major_category><![CDATA[Category1]]></major_category>
-		<minor_category><![CDATA[Minor 1]]></minor_category>
+		<major_category><![CDATA[Construction / Facilities]]></major_category>
+		<minor_category><![CDATA[Foreman]]></minor_category>
 		<requirements>
 			<requirement1><![CDATA[C#]]></requirement1>
 		</requirements>
